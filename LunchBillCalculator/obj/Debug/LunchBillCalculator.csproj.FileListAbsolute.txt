@@ -1,0 +1,8 @@
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\LunchBillCalculator\LunchBillCalculator\bin\Debug\LunchBillCalculator.exe.config
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\LunchBillCalculator\LunchBillCalculator\bin\Debug\LunchBillCalculator.exe
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\LunchBillCalculator\LunchBillCalculator\bin\Debug\LunchBillCalculator.pdb
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\LunchBillCalculator\LunchBillCalculator\obj\Debug\LunchBillCalculator.Properties.Resources.resources
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\LunchBillCalculator\LunchBillCalculator\obj\Debug\LunchBillCalculator.csproj.GenerateResource.Cache
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\LunchBillCalculator\LunchBillCalculator\obj\Debug\LunchBillCalculator.exe
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\LunchBillCalculator\LunchBillCalculator\obj\Debug\LunchBillCalculator.pdb
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\LunchBillCalculator\LunchBillCalculator\obj\Debug\LunchBillCalculator.lunchBillCalculatorApp.resources
